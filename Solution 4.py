@@ -1,4 +1,4 @@
-#WAS enter 3 number and print which number maximum number
+#WAS enter 3 number and print which number maximum number 
 n1=int(input("Enter value of No.1 : "))
 n2=int(input("Enter value of No.2 : "))
 n3=int(input("Enter value of No.3 : "))
