@@ -9,4 +9,4 @@ while n>0:
 if(t==sum):
     print("{} is a palimdrome number.".format(t))
 else:
-    print("{} is a not palimdrome number.".format(t))
+    print("{} is a not palimdrome number.".format(t)) 
