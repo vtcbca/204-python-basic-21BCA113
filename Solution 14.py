@@ -13,5 +13,5 @@ for i in range (n):
     k=k-2
     for j in range (i+1):
         print("* ",end="")
-    print("")
+    print("") 
         
