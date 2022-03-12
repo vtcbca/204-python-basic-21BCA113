@@ -4,4 +4,4 @@ n=n+1
 sum=0
 for a in range(1,n):
     sum=sum+a
-print("The sum of N No. is ",sum)
+print("The sum of N No. is ",sum) 
