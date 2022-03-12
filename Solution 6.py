@@ -17,3 +17,4 @@ elif a==7:
 else:
     print("Plz... enter a valid No.")
     
+ 
