@@ -10,4 +10,4 @@ while n>0:
 if(t==sum):
     print("{} is a Armstrong number.".format(t))
 else:
-    print("{} is a not Armstrong number.".format(t))
+    print("{} is a not Armstrong number.".format(t))  
